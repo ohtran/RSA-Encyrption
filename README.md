@@ -1,4 +1,4 @@
-# Assignment 6 - RSA
+# RSA Encyrption 
 
 This program implement the RSA algorithm  
 
